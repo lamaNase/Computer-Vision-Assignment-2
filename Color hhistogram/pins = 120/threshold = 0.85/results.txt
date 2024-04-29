@@ -1,0 +1,5 @@
+Average Precision:       0.04329004329004329
+Average Recall:          0.2222222222222222
+Average F1 Score:        0.07246376811594203
+Average AUC:             0.6087766862669156
+Average execution time:  1.150912233988444 minutes
